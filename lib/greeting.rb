@@ -1,2 +1,4 @@
 def say_hello
-    puts "Hi, I'm HAL"
+    name = gets.strip
+    puts "Hello #{name}. It's nice to meet you."
+  end

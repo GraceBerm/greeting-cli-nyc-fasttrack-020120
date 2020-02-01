@@ -1,1 +1,2 @@
-# code the #greeting method here!
+def say_hello
+    puts "Hi, I'm HAL"
